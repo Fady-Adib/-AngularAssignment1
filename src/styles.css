@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+:root{
+  --mColor:#1abc9c;
+  --secColor:#2c3e50;
+
+}
+
+
+.line {
+  height: 4px;
+  width: 9%;
+}
